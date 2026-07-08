@@ -35,7 +35,7 @@ I'm an aspiring Full-Stack Developer from Baguio City, Philippines. I'm currentl
 
 ## 📫 Connect With Me
 
-📧 Email: your@email.com
+📧 Email: harelcornel@gmail.com
 
 💼 LinkedIn: linkedin.com/in/harelcornel
 
